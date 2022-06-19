@@ -14,7 +14,9 @@ First, let’s have a quick look at the FASTQ file format (Exercise 1).
 Exercise 1 – Understanding the FASTQ file format
 Let’s have a look at the files made available for this course. Under the home directory there is a another directory called fastq_files.
 Let´s access this folder: open up a terminal and type:
+
 `$ cd course_files`
+
 You can list its contents by typing ls (list command) which should give you the list of files and sub-directories within. You’ll find a fasta file (NC000962_3.fasta) for the M. tuberculosis H37Rv reference genome (GenBank Acc. NC000962.3) and ten compressed fastq files for five different M. tuberculosis clinical isolates:
 •	PT000033:  PT000033_1.fastq.gz and PT000033_2.fastq.gz
 •	PT000049:  PT000049_1.fastq.gz and PT000049_2.fastq.gz
